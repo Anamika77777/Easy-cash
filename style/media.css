@@ -1,0 +1,491 @@
+@media(max-width:480px){
+    nav ul {
+        display: none;
+    }
+    #toggle{
+        display: block;
+       margin: 20px;
+    }
+    .owl-carousel .owl-item img{
+        height: 88vh;
+        background-size: cover;
+    }
+    .carousel-text{
+     
+        padding-top: 103px;
+        margin-left: 25px;
+      
+    }
+    .carousel-text h2{
+        width: 55%;
+        font-size: 32px;
+        
+    }
+    .carousel-text p{
+        width: 58%;
+    }
+    .carousel-text a button{
+       margin-right: 287px;
+       padding: 14px 29px;
+    }
+    .service-container{
+        width: 95%;
+        padding: 35px 0 0 0;
+    }
+    .service-sub-container{
+        flex-direction: column;
+    }
+    .service-border {
+padding-left: 20px;
+    }
+    .main-p{
+width: 100%;
+font-size: 17px;
+    }
+    .service-container h4{
+        width: 100%;
+        font-size: 30px;
+    }
+.content-container{
+    width: 90%;
+    height: 139vh;
+    flex-direction: column;
+    padding-top: 37px;
+}
+.content-img img {
+    width: 100%;
+}
+#call .call-container {
+    height: auto;
+    
+}
+#call .call-container .call-box h3{
+    font-size: 33px;
+}
+#call .call-container .call-box {
+    width: 90%;
+}
+.call-info{
+ margin: 0;
+}
+.call-info iframe{
+    width: 337px;
+    height: 247px;
+    margin-left: 30px;
+}
+#small-section {
+    padding-top: 0;
+}
+#small-section .small-section-container{
+    width: 90%;
+    flex-direction: column;
+    height: 145vh;
+    padding-top: 61px
+}
+.support-container {
+    width: 90%;
+    padding:0;
+}
+.support-border {
+    padding-left: 20px;
+}
+.support-container h4{
+    width: 100%;
+    font-size: 29px;
+}
+.sub-support-sec{
+    height: 217vh;
+    flex-direction: column;
+    gap: 0;
+}
+#worlwide .worlwide-container{
+    width: 90%;
+    height:358px;
+}
+#worlwide .worlwide-container h4 {
+    width: 90%;
+    padding: 0;
+    font-size: 31px;
+}
+
+.footer-box {
+    width: 92%;
+}
+.footer-container{
+        width:90%;
+    flex-direction: column;
+    gap: 24px;
+}
+.footer-nav ul{
+    padding-top: 11px;
+}
+.end-footer {
+    margin-top:75px;
+}
+
+}
+
+
+
+@media(min-width:481px)and (max-width:767px){
+    nav ul {
+        display: none;
+    }
+    #toggle{
+        display: block;
+       margin: 20px 30px 20px 20px;
+    }
+    .owl-carousel .owl-item img{
+        height: 88vh;
+        background-size: cover;
+    }
+    .carousel-text{
+     
+        padding-top: 103px;
+        margin-left: 25px;
+      
+    }
+    .carousel-text h2{
+        width: 55%;
+        font-size: 32px;
+        
+    }
+    .carousel-text p{
+        width: 58%;
+    }
+    .carousel-text a button{
+       margin-right: 287px;
+       padding: 14px 29px;
+    }
+    .service-container{
+        width: 95%;
+        padding: 35px 0 0 0;
+    }
+    .service-sub-container{
+        flex-direction: column;
+    }
+    .service-border {
+padding-left: 20px;
+    }
+    .main-p{
+width: 100%;
+font-size: 17px;
+    }
+    .service-container h4{
+        width: 100%;
+        font-size: 30px;
+    }
+.content-container{
+    width: 90%;
+    height: 139vh;
+    flex-direction: column;
+    padding-top: 51px;
+}
+.content-img img {
+    width: 100%;
+}
+#call .call-container {
+    height: 99vh;
+    
+}
+#call .call-container .call-box h3{
+    font-size: 33px;
+}
+#call .call-container .call-box {
+    width: 90%;
+}
+.call-info{
+ margin: 0;
+}
+.call-info iframe{
+    width: 337px;
+    height: 247px;
+    margin-left: 30px;
+}
+#small-section {
+    padding-top: 0;
+}
+#small-section .small-section-container{
+    width: 90%;
+    flex-direction: column;
+    height: 145vh;
+    padding-top: 61px
+}
+.support-container {
+    width: 90%;
+    padding:0;
+}
+.support-border {
+    padding-left: 20px;
+}
+.support-container h4{
+    width: 100%;
+    font-size: 29px;
+}
+.sub-support-sec{
+    height: 217vh;
+    flex-direction: column;
+    gap: 0;
+}
+#worlwide .worlwide-container{
+    width: 90%;
+}
+#worlwide .worlwide-container h4 {
+    width: 90%;
+}
+.footer-box {
+    width: 92%;
+}
+.footer-container{
+        width:90%;
+    flex-direction: column;
+    gap: 24px;
+}
+.footer-nav ul{
+    padding-top: 11px;
+}
+.end-footer {
+    margin-top:75px;
+}
+
+}
+
+
+@media(min-width:767px)and (max-width:996px){
+    nav ul {
+        display: none;
+    }
+    #toggle{
+        display: block;
+        margin: 20px 30px 20px 20px;
+    }
+    .owl-carousel .owl-item img{
+        height: 88vh;
+        background-size: cover;
+    }
+    .carousel-text{
+     
+        padding-top: 103px;
+        margin-left: 25px;
+      
+    }
+    .carousel-text h2{
+        width: 55%;
+        font-size: 32px;
+        
+    }
+    .carousel-text p{
+        width: 58%;
+    }
+    .carousel-text a button{
+       margin-right: 287px;
+       padding: 14px 29px;
+    }
+    .service-container{
+        width: 95%;
+        padding: 35px 0 0 0;
+    }
+    .service-sub-container{
+        flex-direction: column;
+    }
+    .service-border {
+padding-left: 20px;
+    }
+    .main-p{
+width: 100%;
+font-size: 17px;
+    }
+    .service-container h4{
+        width: 100%;
+        font-size: 30px;
+    }
+.content-container{
+    width: 90%;
+    height: 139vh;
+    flex-direction: column;
+    padding-top: 51px;
+}
+.content-img img {
+    width: 100%;
+}
+#call .call-container {
+    height: 99vh;
+    
+}
+#call .call-container .call-box h3{
+    font-size: 33px;
+}
+#call .call-container .call-box {
+    width: 90%;
+}
+.call-info{
+ margin: 0;
+}
+.call-info iframe{
+    width: 337px;
+    height: 247px;
+    margin-left: 30px;
+}
+#small-section {
+    padding-top: 0;
+}
+#small-section .small-section-container{
+    width: 90%;
+    flex-direction: column;
+    height: 145vh;
+    padding-top: 61px
+}
+.support-container {
+    width: 90%;
+    padding:0;
+}
+.support-border {
+    padding-left: 20px;
+}
+.support-container h4{
+    width: 100%;
+    font-size: 29px;
+}
+.sub-support-sec{
+    height: 217vh;
+    flex-direction: column;
+    gap: 0;
+}
+
+.footer-box {
+    width: 92%;
+}
+.footer-container{
+        width:90%;
+    flex-direction: column;
+    gap: 24px;
+}
+.footer-nav ul{
+    padding-top: 11px;
+}
+.end-footer {
+    margin-top:75px;
+}
+
+}
+
+
+@media(min-width:996px)and (max-width:1190){
+    nav ul li {
+        display: none;
+    }
+    .owl-carousel .owl-item img{
+        height: 88vh;
+        background-size: cover;
+    }
+    .carousel-text{
+     
+        padding-top: 103px;
+        margin-left: 25px;
+      
+    }
+    .carousel-text h2{
+        width: 55%;
+        font-size: 32px;
+        
+    }
+    .carousel-text p{
+        width: 58%;
+    }
+    .carousel-text a button{
+       margin-right: 287px;
+       padding: 14px 29px;
+    }
+    .service-container{
+        width: 95%;
+        padding: 35px 0 0 0;
+    }
+    .service-sub-container{
+        flex-direction: column;
+    }
+    .service-border {
+padding-left: 20px;
+    }
+    .main-p{
+width: 100%;
+font-size: 17px;
+    }
+    .service-container h4{
+        width: 100%;
+        font-size: 30px;
+    }
+.content-container{
+    width: 90%;
+    height: 139vh;
+    flex-direction: column;
+    padding-top: 51px;
+}
+.content-img img {
+    width: 100%;
+}
+#call .call-container {
+    height: 99vh;
+    
+}
+#call .call-container .call-box h3{
+    font-size: 33px;
+}
+#call .call-container .call-box {
+    width: 90%;
+}
+.call-info{
+ margin: 0;
+}
+.call-info iframe{
+    width: 337px;
+    height: 247px;
+    margin-left: 30px;
+}
+#small-section {
+    padding-top: 0;
+}
+#small-section .small-section-container{
+    width: 90%;
+    flex-direction: column;
+    height: 145vh;
+    padding-top: 61px
+}
+.support-container {
+    width: 90%;
+    padding:0;
+}
+.support-border {
+    padding-left: 20px;
+}
+.support-container h4{
+    width: 100%;
+    font-size: 29px;
+}
+.sub-support-sec{
+    height: 217vh;
+    flex-direction: column;
+    gap: 0;
+}
+
+.footer-box {
+    width: 92%;
+}
+.footer-container{
+        width:90%;
+    flex-direction: column;
+    gap: 24px;
+}
+.footer-nav ul{
+    padding-top: 11px;
+}
+.end-footer {
+    margin-top:75px;
+}
+
+}
+
+
+
+
+
+
